@@ -1,0 +1,17 @@
+{
+    "hero":{
+        "header":"عسل <br> شفا بخش ترین محصول طبیعت",
+        "subtext":"عسل رویال محصولی از دامنه های پر شهد اشترانکوه",
+        "bg_image":"/images/royal.jpg"
+    },
+    "about":{
+        "header":"به فروشگاه عسل رویال خوش آمدید",
+        "subtext":"زنبورستان رویال در حدود ۱۴ سال پیش توسط آقای ولی امیدیان تاسیس شد،پشتکار وی باعث شد تا عسل زنبورستان رویال زبان زد خاص و عام گردد و عرضه عسل رویال به صورت عمده به جای جای کشور آغاز شود",
+        "bg_image":"/images/secondroyal.jpeg",
+        "images":[
+            {"image":"/images/thumro1.jpeg"},
+            {"image":"/images/thumro2.jpeg"},
+            {"image":"/images/thumro3.jpeg"}
+        ]
+    }
+}
